@@ -1,5 +1,5 @@
 transitive_group_id: [15,83]
- Description: (C3 x C3 x C3 x C3) : (S5 x S3) 
+ Description: C3 : ((C3 x C3 x C3 x C3) : (C2 x S5)) 
  Stabilizer: ((C3 x (((C3 x C3 x C3) : (C2 x C2)) : C3)) : C2) : C2 
 Density: 1.0
 Join: False 
