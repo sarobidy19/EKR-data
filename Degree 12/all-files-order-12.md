@@ -145,7 +145,7 @@
 |12|143|((C2 x ((C4 x C2 x C2) : C2)) : C2) : C3|1|[details](TransitiveGroup(12,143).txt)|
 |12|144|((C2 x ((C2 x C2 x C2 x C2) : C2)) : C2) : C3|1|[details](TransitiveGroup(12,144).txt)|
 |12|145|(C2 x (((C2 x C2 x C2 x C2) : C2) : C3)) : C2|1|[details](TransitiveGroup(12,145).txt)|
-|12|146|(((C2 x C2 x C2 x C2) : C3) : C4) : C2|1|[details](TransitiveGroup(12,146).txt)|
+|12|146|(C2 x (((C2 x C2 x C2 x C2) : C3) : C2)) : C2|1|[details](TransitiveGroup(12,146).txt)|
 |12|147|(C2 x (((C4 x C4) : C3) : C2)) : C2|1|[details](TransitiveGroup(12,147).txt)|
 |12|148|(C2 x C2 x ((C2 x C2 x C2 x C2) : C3)) : C2|1|[details](TransitiveGroup(12,148).txt)|
 |12|149|(C2 x (((C4 x C4) : C2) : C3)) : C2|1|[details](TransitiveGroup(12,149).txt)|
@@ -179,10 +179,10 @@
 |12|177|(((C3 x C3 x C3) : (C2 x C2)) : C3) : C2|1|[details](TransitiveGroup(12,177).txt)|
 |12|178|(((C3 x C3 x C3) : (C2 x C2)) : C3) : C2|1|[details](TransitiveGroup(12,178).txt)|
 |12|179|PSL(2,11)|1|[details](TransitiveGroup(12,179).txt)|
-|12|180|C2 x A6|1.0|[details](TransitiveGroup(12,180).txt)|
-|12|181|A6 . C2|1.0|[details](TransitiveGroup(12,181).txt)|
-|12|182|A6 : C2|1.0|[details](TransitiveGroup(12,182).txt)|
-|12|183|S6|1.0|[details](TransitiveGroup(12,183).txt)|
+|12|180|C2 x A6|1|[details](TransitiveGroup(12,180).txt)|
+|12|181|A6 . C2|1|[details](TransitiveGroup(12,181).txt)|
+|12|182|A6 : C2|1|[details](TransitiveGroup(12,182).txt)|
+|12|183|S6|1|[details](TransitiveGroup(12,183).txt)|
 |12|184|((((C2 x ((C4 x C2) : C2)) : C2) : C2) : C3) : C2|1|[details](TransitiveGroup(12,184).txt)|
 |12|185|(((C2 x ((C4 x C4) : C2)) : C2) : C3) : C2|1|[details](TransitiveGroup(12,185).txt)|
 |12|186|(((C2 x ((C2 x C2 x C2 x C2) : C2)) : C2) : C3) : C2|1|[details](TransitiveGroup(12,186).txt)|
@@ -199,14 +199,14 @@
 |12|197|((((C2 x C2 x C2 x C2) : C3) : C4) : C3) : C2|1.0|[details](TransitiveGroup(12,197).txt)|
 |12|198|C2 x ((A4 x A4) : C4)|1.0|[details](TransitiveGroup(12,198).txt)|
 |12|199|C2 x ((A4 x A4) : C4)|1.0|[details](TransitiveGroup(12,199).txt)|
-|12|200|(S4 x S4) : C2|1.0|[details](TransitiveGroup(12,200).txt)|
+|12|200|(S4 x S4) : C2|1|[details](TransitiveGroup(12,200).txt)|
 |12|201|(S4 x S4) : C2|1.0|[details](TransitiveGroup(12,201).txt)|
 |12|202|(S4 x S4) : C2|1.0|[details](TransitiveGroup(12,202).txt)|
-|12|203|(S4 x S4) : C2|1.0|[details](TransitiveGroup(12,203).txt)|
-|12|204|((C2 x C2 x C2 x C2 x C2 x C2) : (C3 x C3)) : C2|1.0|[details](TransitiveGroup(12,204).txt)|
+|12|203|(S4 x S4) : C2|1|[details](TransitiveGroup(12,203).txt)|
+|12|204|((C2 x C2 x C2 x C2 x C2 x C2) : (C3 x C3)) : C2|1|[details](TransitiveGroup(12,204).txt)|
 |12|205|(((C2 x C2 x C2 x C2 x C2 x C2) : C3) : C2) : C3|1.0|[details](TransitiveGroup(12,205).txt)|
-|12|206|(C2 x C2 x (((C2 x C2 x C2 x C2) : C3) : C2)) : C3|1.0|[details](TransitiveGroup(12,206).txt)|
-|12|207|((C2 x C2 x C2 x C2 x C2 x C2) : C9) : C2|1.0|[details](TransitiveGroup(12,207).txt)|
+|12|206|(C2 x C2 x (((C2 x C2 x C2 x C2) : C3) : C2)) : C3|1|[details](TransitiveGroup(12,206).txt)|
+|12|207|((C2 x C2 x C2 x C2 x C2 x C2) : C9) : C2|1|[details](TransitiveGroup(12,207).txt)|
 |12|208|((C2 x C2 x ((C2 x C2 x C2 x C2) : C3)) : C2) : C3|1.0|[details](TransitiveGroup(12,208).txt)|
 |12|209|(C3 x C3 x C3 x C3) : ((C4 x C2) : C2)|1.0|[details](TransitiveGroup(12,209).txt)|
 |12|210|(C3 x C3 x C3 x C3) : (C2 x D4)|1.0|[details](TransitiveGroup(12,210).txt)|
@@ -222,7 +222,7 @@
 |12|220|(A6 . C2) : C2|1|[details](TransitiveGroup(12,220).txt)|
 |12|221|(((C4 x ((C4 x C4) : C2)) : C2) : C3) : C2|1.0|[details](TransitiveGroup(12,221).txt)|
 |12|222|(D4 x D4 x D4) : C3|1.0|[details](TransitiveGroup(12,222).txt)|
-|12|223|((((C2 x C2 x C2 x D4) : C2) : C2) : C3) : C2|1.0|[details](TransitiveGroup(12,223).txt)|
+|12|223|((((C2 x ((C2 x C2 x C2 x C2) : C2)) : C2) : C2) : C3) : C2|1.0|[details](TransitiveGroup(12,223).txt)|
 |12|224|((((C2 x ((C2 x C2 x C2 x C2) : C2)) : C2) : C3) : C2) : C2|1.0|[details](TransitiveGroup(12,224).txt)|
 |12|225|(((C4 x ((C4 x C4) : C2)) : C2) : C3) : C2|1.0|[details](TransitiveGroup(12,225).txt)|
 |12|226|((((C2 x ((C2 x C2 x C2 x C2) : C2)) : C2) : C3) : C2) : C2|1.0|[details](TransitiveGroup(12,226).txt)|
@@ -249,7 +249,7 @@
 |12|247|(C3 x C3 x C3 x C3) : ((C2 x C2 x C2) : C4)|1.0|[details](TransitiveGroup(12,247).txt)|
 |12|248|(C3 x C3 x C3 x C3) : ((C2 x C2 x C2 x C2) : C2)|1.0|[details](TransitiveGroup(12,248).txt)|
 |12|249|(C3 x C3 x C3 x C3) : ((C4 x C4) : C2)|1.0|[details](TransitiveGroup(12,249).txt)|
-|12|250|((((C4 x ((C4 x C4) : C2)) : C2) : C3) : C2) : C2|1.0|[details](TransitiveGroup(12,250).txt)|
+|12|250|((((((C2 x ((C4 x C2) : C2)) : C2) : C2) : C2) : C3) : C2) : C2|1.0|[details](TransitiveGroup(12,250).txt)|
 |12|251|(((C2 x C2 x C2 x C2 x C2 x C2) : (C3 x C3)) : C2) : C3|1|[details](TransitiveGroup(12,251).txt)|
 |12|252|((C2 x C2 x C2 x C2 x C2 x C2) : ((C3 x C3) : C3)) : C2|1|[details](TransitiveGroup(12,252).txt)|
 |12|253|((C2 x C2 x C2 x C2 x C2 x C2) : ((C3 x C3) : C3)) : C2|1.0|[details](TransitiveGroup(12,253).txt)|
