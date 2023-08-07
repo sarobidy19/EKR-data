@@ -120,12 +120,13 @@
 |12|118|(C3 x C3 x C3) : D4|1|[details](TransitiveGroup(12,118).txt)|
 |12|119|((C3 x C3) : C4) x S3|1|[details](TransitiveGroup(12,119).txt)|
 |12|120|(C3 x C3 x C3) : D4|1|[details](TransitiveGroup(12,120).txt)|
+|12|121|C3 x (|
 |12|121|C3 x ((S3 x S3) : C2)|1|[details](TransitiveGroup(12,121).txt)|
 |12|122|((C3 x C3) : Q8) : C3|3/2|[details](TransitiveGroup(12,122).txt)|
 |12|123|C2 x S5|1|[details](TransitiveGroup(12,123).txt)|
 |12|124|A5 : C4|1|[details](TransitiveGroup(12,124).txt)|
 |12|125|(C3 x C3) : ((C2 x C2 x C2 x C2) : C2)|1|[details](TransitiveGroup(12,125).txt)|
-|12|126|(((C2 x C2 x C2 x C2) : C3) : C2) : C3|2|[details](TransitiveGroup(12,126).txt)|
+|12|126|(((C2 x C2 x C2 x C2) : C3) : C2) : C3|11/8|[details](TransitiveGroup(12,126).txt)|
 |12|127|(A4 x A4) : C2|1|[details](TransitiveGroup(12,127).txt)|
 |12|128|(A4 x A4) : C2|1|[details](TransitiveGroup(12,128).txt)|
 |12|129|(A4 x A4) : C2|1|[details](TransitiveGroup(12,129).txt)|
@@ -145,7 +146,7 @@
 |12|143|((C2 x ((C4 x C2 x C2) : C2)) : C2) : C3|1|[details](TransitiveGroup(12,143).txt)|
 |12|144|((C2 x ((C2 x C2 x C2 x C2) : C2)) : C2) : C3|1|[details](TransitiveGroup(12,144).txt)|
 |12|145|(C2 x (((C2 x C2 x C2 x C2) : C2) : C3)) : C2|1|[details](TransitiveGroup(12,145).txt)|
-|12|146|(((C2 x C2 x C2 x C2) : C3) : C4) : C2|1|[details](TransitiveGroup(12,146).txt)|
+|12|146|(C2 x (((C2 x C2 x C2 x C2) : C3) : C2)) : C2|1|[details](TransitiveGroup(12,146).txt)|
 |12|147|(C2 x (((C4 x C4) : C3) : C2)) : C2|1|[details](TransitiveGroup(12,147).txt)|
 |12|148|(C2 x C2 x ((C2 x C2 x C2 x C2) : C3)) : C2|1|[details](TransitiveGroup(12,148).txt)|
 |12|149|(C2 x (((C4 x C4) : C2) : C3)) : C2|1|[details](TransitiveGroup(12,149).txt)|
@@ -179,7 +180,7 @@
 |12|177|(((C3 x C3 x C3) : (C2 x C2)) : C3) : C2|1|[details](TransitiveGroup(12,177).txt)|
 |12|178|(((C3 x C3 x C3) : (C2 x C2)) : C3) : C2|1|[details](TransitiveGroup(12,178).txt)|
 |12|179|PSL(2,11)|1|[details](TransitiveGroup(12,179).txt)|
-|12|180|C2 x A6|1|[details](TransitiveGroup(12,180).txt)|
+](TransitiveGroup(12,180).txt)|
 |12|181|A6 . C2|1|[details](TransitiveGroup(12,181).txt)|
 |12|182|A6 : C2|1|[details](TransitiveGroup(12,182).txt)|
 |12|183|S6|1|[details](TransitiveGroup(12,183).txt)|
