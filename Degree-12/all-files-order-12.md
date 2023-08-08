@@ -180,7 +180,7 @@
 |12|177|(((C3 x C3 x C3) : (C2 x C2)) : C3) : C2|1|[details](TransitiveGroup(12,177).txt)|
 |12|178|(((C3 x C3 x C3) : (C2 x C2)) : C3) : C2|1|[details](TransitiveGroup(12,178).txt)|
 |12|179|PSL(2,11)|1|[details](TransitiveGroup(12,179).txt)|
-](TransitiveGroup(12,180).txt)|
+|12|180|C2 x A6|1|[details](TransitiveGroup(12,180).txt)|
 |12|181|A6 . C2|1|[details](TransitiveGroup(12,181).txt)|
 |12|182|A6 : C2|1|[details](TransitiveGroup(12,182).txt)|
 |12|183|S6|1|[details](TransitiveGroup(12,183).txt)|
