@@ -7,7 +7,7 @@ entries:
   - title: Home
     entries:
       - title: By degree
-        url: /assets/mycode/README
+        url: /EKR-data/assets/mycode/README
       - title: Intersection density larger than \( 1 \)
         url: 
       - title: back to "<a href='https://sarobidyraz.com/'>https://sarobidyraz.com/</a>"
