@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
 This is a database of the intersection density of transitive groups of degree up to 18
