@@ -1,7 +1,7 @@
 title: Intersection density database # name of the site
 author: Sarobidy Razafimahatratra # name of site's author
 email: # email of site's author
-url: https://sarobidyraz.com/ # root address of the site
+url:  # root address of the site
 baseurl: "/no-style-please" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   This web page is a comprehensive database on the intersection densities of transitive groups of small degree.
