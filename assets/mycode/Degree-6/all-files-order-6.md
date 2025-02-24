@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 |n|k|Description|Density|Information|

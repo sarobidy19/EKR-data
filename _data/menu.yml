@@ -9,7 +9,8 @@ entries:
       - title: By degree
         url: all-degree
       - title: Intersection density larger than \( 1 \)
-        url: 
+        url: density-larger-than-1
+      - title: Conjecture
       - title: back to "<a href='https://sarobidyraz.com/'>https://sarobidyraz.com/</a>"
 
 #  - title: News
