@@ -1,6 +1,5 @@
 ---
 layout: home
-enable_math: true
 ---
 
 ## Description
